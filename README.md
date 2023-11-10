@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently enrolled as a junior at New York University pursuing an undergraduate double degree in Computer Science and Interactive Media, with minor concentrations in Applied Mathematics and Web Development. I am primarily interested in the intersectionality of artificial intelligence, modern web development and virtual reality, and I am actively seeking different opportunities in these areas.
+I am currently enrolled as a Senior at New York University pursuing an undergraduate double degree in Computer Science and Interactive Media, with minor concentrations in Applied Mathematics and Web Development. I am primarily interested in the intersectionality of artificial intelligence, modern web development and virtual reality, and I am actively seeking different opportunities in these areas.
 
 
 ## 🌐 Socials:
